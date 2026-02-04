@@ -196,7 +196,7 @@ void credits()
 {
     cout << "-------------------------" << endl;
     cout << "       Project By   " << endl;
-    cout << "  1.Afridh Kareem M(c)" << endl;
+    cout << "  1.Afridh Kareem M" << endl;
     cout << "  2.Aswin Kumar C" << endl;
     cout << "  3.Inisha T" << endl;
     cout << "  4.Kamali " << endl;
